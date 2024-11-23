@@ -5,6 +5,17 @@ body{
   font-family: 'Josefin Sans', sans-serif;
 }
 
+.back-button {
+  background-color: #2179b0;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 .container{
   position: relative;
   width: 1200px;
